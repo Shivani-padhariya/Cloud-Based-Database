@@ -64,5 +64,5 @@ Cloud databases are hosted on cloud platforms and provide automatic scalability,
 ## 👩‍💻 Author
 
 Shivani Padhariya  
-BCA Student | Aspiring AI / Cloud / AI Engineer  
-GitHub Portfolio Project
+
+
